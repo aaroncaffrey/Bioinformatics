@@ -1,0 +1,16 @@
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ComplexAtoms.exe.config
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ComplexAtoms.exe
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ComplexAtoms.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Debug\ComplexAtoms.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Debug\ComplexAtoms.exe
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Debug\ComplexAtoms.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ComplexAtoms.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ComplexAtoms.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ComplexAtoms.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Debug\ComplexAtoms.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Debug\ComplexAtoms.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Debug\ComplexAtoms.pdb

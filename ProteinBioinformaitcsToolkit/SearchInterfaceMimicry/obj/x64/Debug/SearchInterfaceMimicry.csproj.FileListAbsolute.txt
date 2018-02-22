@@ -1,0 +1,14 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\SearchInterfaceMimicry.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\SearchInterfaceMimicry.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\SearchInterfaceMimicry.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\x64\Debug\SearchInterfaceMimicry.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\x64\Debug\SearchInterfaceMimicry.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\SearchInterfaceMimicry.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\SearchInterfaceMimicry.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\SearchInterfaceMimicry.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\x64\Debug\SearchInterfaceMimicry.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\x64\Debug\SearchInterfaceMimicry.pdb

@@ -1,0 +1,8 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\Debug\SlidingWindowThreading.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\Debug\SlidingWindowThreading.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\Debug\SlidingWindowThreading.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\Debug\SlidingWindowThreading.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\Debug\SlidingWindowThreading.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\Debug\SlidingWindowThreading.pdb

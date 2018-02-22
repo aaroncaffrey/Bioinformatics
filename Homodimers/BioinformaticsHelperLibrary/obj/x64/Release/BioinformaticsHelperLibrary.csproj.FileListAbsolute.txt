@@ -1,0 +1,3 @@
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\bin\x64\Release\BioinformaticsHelperLibrary.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\obj\x64\Release\BioinformaticsHelperLibrary.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\obj\x64\Release\BioinformaticsHelperLibrary.dll

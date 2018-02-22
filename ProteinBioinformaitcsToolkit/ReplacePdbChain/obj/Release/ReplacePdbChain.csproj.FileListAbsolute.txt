@@ -1,0 +1,5 @@
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\Release\ReplacePdbChain.exe.config
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\Release\ReplacePdbChain.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\Release\ReplacePdbChain.pdb
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\Release\ReplacePdbChain.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\Release\ReplacePdbChain.pdb

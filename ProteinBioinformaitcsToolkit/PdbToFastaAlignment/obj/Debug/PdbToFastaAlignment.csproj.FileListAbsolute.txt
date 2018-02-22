@@ -1,0 +1,8 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\Debug\PdbToFastaAlignment.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\Debug\PdbToFastaAlignment.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\Debug\PdbToFastaAlignment.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\Debug\PdbToFastaAlignment.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\Debug\PdbToFastaAlignment.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\Debug\PdbToFastaAlignment.pdb

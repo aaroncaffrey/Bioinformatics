@@ -1,0 +1,9 @@
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\Release\FindUniquePartners.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\Release\FindUniquePartners.exe.config
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\Release\FindUniquePartners.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\Release\FindUniquePartners.pdb
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\Release\Bio.dll
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\Release\FindUniquePartners.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\Release\FindUniquePartners.pdb

@@ -1,0 +1,12 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\x64\Debug\FetchPdbFile.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\x64\Debug\FetchPdbFile.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\x64\Debug\FetchPdbFile.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\x64\Debug\FetchPdbFile.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\x64\Debug\FetchPdbFile.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\x64\Debug\xFetchPdbFile.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\x64\Debug\FetchPdbFile.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\x64\Debug\FetchPdbFile.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\x64\Debug\FetchPdbFile.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\x64\Debug\FetchPdbFile.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\x64\Debug\FetchPdbFile.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\x64\Debug\xFetchPdbFile.csprojResolveAssemblyReference.cache

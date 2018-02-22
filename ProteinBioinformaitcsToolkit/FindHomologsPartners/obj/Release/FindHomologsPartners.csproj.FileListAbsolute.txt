@@ -1,0 +1,13 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\FindHomologsPartners.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\FindHomologsPartners.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\FindHomologsPartners.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\Bio.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\ComplexInterfaces.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\FindHomologsCluster.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\ComplexInterfaces.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\FindHomologsCluster.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\bin\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\obj\Release\FindHomologsPartners.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\obj\Release\FindHomologsPartners.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologsPartners\obj\Release\FindHomologsPartners.pdb

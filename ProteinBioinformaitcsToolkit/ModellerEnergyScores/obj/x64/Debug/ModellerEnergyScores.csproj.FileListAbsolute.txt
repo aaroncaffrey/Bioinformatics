@@ -1,0 +1,13 @@
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe.config
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\Bio.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.csprojResolveAssemblyReference.cache

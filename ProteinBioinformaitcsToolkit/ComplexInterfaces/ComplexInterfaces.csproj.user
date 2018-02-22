@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartArguments>C:\bspdb\seq.fasta C:\bspdb\atoms_-\1c8b.pdb C:\bspdb\contacts_-_4.0\1c8b.pdb - c:\dssp\ c:\stride\ - 4.0 5 0 0.5 C:\bspdb\interfaces_-_4.0_0_5_0.5\interfaces_1c8b.pdb.csv  C:\bspdb\interfaces_-_4.0_0_5_0.5\interface-interface_1c8b.pdb.csv N</StartArguments>
+  </PropertyGroup>
+</Project>

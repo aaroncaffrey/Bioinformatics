@@ -1,0 +1,4 @@
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\bin\Release\BioinformaticsHelperLibrary.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\bin\Release\BioinformaticsHelperLibrary.pdb
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\obj\Release\BioinformaticsHelperLibrary.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibrary\obj\Release\BioinformaticsHelperLibrary.pdb

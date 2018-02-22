@@ -1,0 +1,16 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\StructureToSequence.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\StructureToSequence.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\StructureToSequence.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\obj\x64\Release\xStructureToSequence.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\obj\x64\Release\StructureToSequence.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\obj\x64\Release\StructureToSequence.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\StructureToSequence.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\StructureToSequence.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\StructureToSequence.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\obj\x64\Release\xStructureToSequence.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\obj\x64\Release\StructureToSequence.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\StructureToSequence\obj\x64\Release\StructureToSequence.pdb

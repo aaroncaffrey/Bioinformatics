@@ -1,0 +1,16 @@
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ComplexInterfaces.exe.config
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\obj\Debug\ComplexInterfaces.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ComplexInterfaces.exe
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ComplexInterfaces.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\obj\Debug\ComplexInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexInterfaces\obj\Debug\ComplexInterfaces.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ComplexInterfaces.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ComplexInterfaces.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ComplexInterfaces.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\obj\Debug\ComplexInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\obj\Debug\ComplexInterfaces.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaces\obj\Debug\ComplexInterfaces.pdb

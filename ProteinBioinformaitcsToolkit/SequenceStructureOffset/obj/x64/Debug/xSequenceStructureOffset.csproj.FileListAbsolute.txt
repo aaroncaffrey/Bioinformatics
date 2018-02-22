@@ -1,0 +1,8 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\bin\x64\Debug\SequenceStructureOffset.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\bin\x64\Debug\SequenceStructureOffset.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\bin\x64\Debug\SequenceStructureOffset.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\obj\x64\Debug\xSequenceStructureOffset.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\obj\x64\Debug\SequenceStructureOffset.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SequenceStructureOffset\obj\x64\Debug\SequenceStructureOffset.pdb

@@ -1,0 +1,13 @@
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\BioinformaticsHelperLibraryUnitTests.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\BioinformaticsHelperLibraryUnitTests.pdb
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\BioinformaticsHelperLibrary.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\Bio.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\BioinformaticsHelperLibrary.pdb
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\obj\x64\Debug\BioinformaticsHelperLibraryUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\obj\x64\Debug\BioinformaticsHelperLibraryUnitTests.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\obj\x64\Debug\BioinformaticsHelperLibraryUnitTests.pdb
+C:\Users\k1040\OneDrive\Documents\Homodimers\BioinformaticsHelperLibraryUnitTests\obj\x64\Debug\BioinformaticsHelperLibraryUnitTests.csprojResolveAssemblyReference.cache

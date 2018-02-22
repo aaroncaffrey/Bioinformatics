@@ -1,0 +1,5 @@
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\bin\Debug\ProteinBioinformaitcsToolkit.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\bin\Debug\ProteinBioinformaitcsToolkit.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\bin\Debug\ProteinBioinformaitcsToolkit.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\obj\Debug\ProteinBioinformaitcsToolkit.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\obj\Debug\ProteinBioinformaitcsToolkit.pdb

@@ -1,0 +1,9 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\bin\Debug\Ds96Ub.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\bin\Debug\Ds96Ub.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\bin\Debug\Ds96Ub.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\bin\Debug\Bio.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\obj\Debug\Ds96Ub.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\obj\Debug\Ds96Ub.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\Ds96Ub\obj\Debug\Ds96Ub.pdb

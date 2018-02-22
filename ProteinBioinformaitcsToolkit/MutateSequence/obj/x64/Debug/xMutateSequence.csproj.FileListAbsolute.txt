@@ -1,0 +1,8 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\bin\x64\Debug\MutateSequence.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\bin\x64\Debug\MutateSequence.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\bin\x64\Debug\MutateSequence.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\obj\x64\Debug\xMutateSequence.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\obj\x64\Debug\MutateSequence.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\MutateSequence\obj\x64\Debug\MutateSequence.pdb

@@ -1,0 +1,12 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\DbmkPart2\bin\Release\DbmkPart2.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\DbmkPart2\bin\Release\DbmkPart2.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\DbmkPart2\bin\Release\DbmkPart2.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\DbmkPart2\obj\Release\DbmkPart2.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\DbmkPart2\obj\Release\DbmkPart2.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\DbmkPart2\obj\Release\DbmkPart2.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\DbmkPart2\bin\Release\DbmkPart2.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\DbmkPart2\bin\Release\DbmkPart2.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\DbmkPart2\bin\Release\DbmkPart2.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\DbmkPart2\obj\Release\DbmkPart2.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\DbmkPart2\obj\Release\DbmkPart2.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\DbmkPart2\obj\Release\DbmkPart2.pdb

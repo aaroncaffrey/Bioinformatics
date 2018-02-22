@@ -1,0 +1,5 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfacesInteraction\bin\Release\ComplexInterfacesInteraction.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfacesInteraction\bin\Release\ComplexInterfacesInteraction.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfacesInteraction\bin\Release\ComplexInterfacesInteraction.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfacesInteraction\obj\Release\ComplexInterfacesInteraction.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfacesInteraction\obj\Release\ComplexInterfacesInteraction.pdb

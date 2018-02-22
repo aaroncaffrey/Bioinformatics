@@ -1,0 +1,17 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\NewDataSet.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\NewDataSet.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\FindUniquePartners.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\FindUniquePartners.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\obj\x64\Release\xMultiBinding.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\obj\x64\Release\NewDataSet.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\NewDataSet.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\NewDataSet.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\FindUniquePartners.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\FindUniquePartners.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\FindUniquePartners.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\obj\x64\Release\xMultiBinding.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\NewDataSet\obj\x64\Release\NewDataSet.exe

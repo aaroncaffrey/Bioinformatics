@@ -1,0 +1,6 @@
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\bin\Release\ProteinBioinformaitcsToolkit.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\bin\Release\ProteinBioinformaitcsToolkit.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\bin\Release\ProteinBioinformaitcsToolkit.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\obj\Release\ProteinBioinformaitcsToolkit.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\obj\Release\ProteinBioinformaitcsToolkit.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ProteinBioinformaitcsToolkit\obj\Release\ProteinBioinformaitcsToolkit.csprojResolveAssemblyReference.cache

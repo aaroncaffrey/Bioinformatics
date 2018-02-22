@@ -1,0 +1,11 @@
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Debug\ReplacePdbChain.exe.config
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Debug\ReplacePdbChain.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Debug\ReplacePdbChain.pdb
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Debug\ReplacePdbChain.exe
+C:\Users\Aaron\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Debug\ReplacePdbChain.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Debug\ReplacePdbChain.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Debug\ReplacePdbChain.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Debug\ReplacePdbChain.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Debug\ReplacePdbChain.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Debug\ReplacePdbChain.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Debug\ReplacePdbChain.pdb

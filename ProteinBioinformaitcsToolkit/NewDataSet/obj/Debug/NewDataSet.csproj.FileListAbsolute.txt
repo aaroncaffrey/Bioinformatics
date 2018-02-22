@@ -1,0 +1,9 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\Debug\NewDataSet.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\Debug\NewDataSet.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\Debug\NewDataSet.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\obj\Debug\NewDataSet.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\obj\Debug\NewDataSet.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\Debug\Bio.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\NewDataSet\obj\Debug\NewDataSet.csprojResolveAssemblyReference.cache

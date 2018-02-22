@@ -1,0 +1,15 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\SlidingWindowThreading.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\SlidingWindowThreading.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\SlidingWindowThreading.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Debug\SlidingWindowThreading.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Debug\SlidingWindowThreading.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Debug\SlidingWindowThreading.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\SlidingWindowThreading.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\SlidingWindowThreading.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\SlidingWindowThreading.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Debug\SlidingWindowThreading.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Debug\SlidingWindowThreading.pdb

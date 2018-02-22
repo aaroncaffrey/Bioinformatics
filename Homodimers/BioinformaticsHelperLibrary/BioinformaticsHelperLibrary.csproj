@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{016E4117-F5BB-4FD6-B025-163C1DC9F86D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BioinformaticsHelperLibrary</RootNamespace>
+    <AssemblyName>BioinformaticsHelperLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <LangVersion>6</LangVersion>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bio">
+      <HintPath>bin\Bio.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AminoAcidGroups\AminoAcidGroups.cs" />
+    <Compile Include="AminoAcids\AminoAcidProperties.cs" />
+    <Compile Include="AminoAcids\AminoAcidPropertyMatchType.cs" />
+    <Compile Include="AminoAcids\NonStandard\NonStandardAminoAcids.cs" />
+    <Compile Include="AminoAcids\NonStandard\NonStandardAminoAcids1L.cs" />
+    <Compile Include="AminoAcids\NonStandard\NonStandardAminoAcids3L.cs" />
+    <Compile Include="AminoAcids\NonStandard\NonStandardTypes\Selenomethionine.cs" />
+    <Compile Include="AminoAcids\NonStandard\NonStandardTypes\PyroglutamicAcid.cs" />
+    <Compile Include="Dssp\DsspField.cs" />
+    <Compile Include="Dssp\DsspFormatFile.cs" />
+    <Compile Include="Dssp\SecondaryStructureRecord.cs" />
+    <Compile Include="Dssp\SiteSecondaryStructureLoader.cs" />
+    <Compile Include="Fasta\FastaSequence.cs" />
+    <Compile Include="InteractionDetection\InteractionsCache.cs" />
+    <Compile Include="InteractionVector\AminoAcidDistributionSpreadsheetRecord.cs" />
+    <Compile Include="InteractionVector\InteractionVectorSymmetry.cs" />
+    <Compile Include="InteractionVector\IsolateInteractionStructure.cs" />
+    <Compile Include="InteractionVector\MotifCounter.cs" />
+    <Compile Include="InteractionVector\MotifHitSpreadsheetRecord.cs" />
+    <Compile Include="InteractionVector\MotifProfileSpreadsheetRecord.cs" />
+    <Compile Include="InteractionVector\MotifSearch.cs" />
+    <Compile Include="InteractionVector\PatternStatisticsSpreadsheetRecord.cs" />
+    <Compile Include="InteractionVector\PrositeMotif.cs" />
+    <Compile Include="Prosite\PrositeMatchSet.cs" />
+    <Compile Include="Prosite\PrositeMatchSetMatch.cs" />
+    <Compile Include="Prosite\PrositeServiceClient.cs" />
+    <Compile Include="InteractionVector\PrositeSpreadsheetRecord.cs" />
+    <Compile Include="InteractionVector\TreeDataSpreadsheetRecord.cs" />
+    <Compile Include="InteractionVector\TreeOutputs.cs" />
+    <Compile Include="InteractionVector\VectorDistanceMeasurementValues.cs" />
+    <Compile Include="InteractionVector\VectorSiteWhole.cs" />
+    <Compile Include="Misc\AminoAcidChainComposition.cs" />
+    <Compile Include="Misc\AminoAcidPairCompositionMatrix.cs" />
+    <Compile Include="AminoAcids\Additional\AdditionalAminoAcids.cs" />
+    <Compile Include="AminoAcids\Additional\AdditionalAminoAcids1L.cs" />
+    <Compile Include="AminoAcids\Additional\AdditionalAminoAcids3L.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousAminoAcids.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousAminoAcids1L.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousAminoAcids3L.cs" />
+    <Compile Include="AminoAcids\AminoAcidConversions.cs" />
+    <Compile Include="AminoAcids\AminoAcidTotals.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Alanine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Arginine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Asparagine.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousTypes\AsparagineOrAsparticAcid.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\AsparticAcid.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Cysteine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\GlutamicAcid.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Glutamine.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousTypes\GlutamineOrGlutamicAcid.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Glycine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Histidine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Isoleucine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Leucine.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousTypes\LeucineOrIsoleucine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Lysine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Methionine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Proline.cs" />
+    <Compile Include="AminoAcids\Additional\AdditionalTypes\Pyrrolysine.cs" />
+    <Compile Include="AminoAcids\Additional\AdditionalTypes\Selenocysteine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Serine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Threonine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Tryptophan.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Tyrosine.cs" />
+    <Compile Include="AminoAcids\Ambiguous\AmbiguousTypes\UnspecifiedOrUnknownAminoAcid.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Valine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardTypes\Phenylalanine.cs" />
+    <Compile Include="AminoAcids\Standard\StandardAminoAcids.cs" />
+    <Compile Include="AminoAcids\Standard\StandardAminoAcids1L.cs" />
+    <Compile Include="AminoAcids\Standard\StandardAminoAcids3L.cs" />
+    <Compile Include="Misc\ClusterAllTaskResult.cs" />
+    <Compile Include="Misc\ClusteringFullResultListContainer.cs" />
+    <Compile Include="Misc\ClusteringMethodOptions.cs" />
+    <Compile Include="Misc\ClusteringResultSiteListContainer.cs" />
+    <Compile Include="Misc\ClusteringSiteDensityDetectionOptions.cs" />
+    <Compile Include="Misc\ClusterProteinDataBankFileResult.cs" />
+    <Compile Include="Misc\DataCache.cs" />
+    <Compile Include="Misc\FileAndPathMethods.cs" />
+    <Compile Include="Misc\GeneralAtomIndexList.cs" />
+    <Compile Include="Misc\GeneralAtomList.cs" />
+    <Compile Include="Misc\HomodimersStatisticsMinerTaskResult.cs" />
+    <Compile Include="Dimers\HomodimerSymmetry.cs" />
+    <Compile Include="InteractionDetection\InteractionsOutput.cs" />
+    <Compile Include="InteractionDetection\SearchInteractions.cs" />
+    <Compile Include="InteractionDetection\SqrtCache.cs" />
+    <Compile Include="Misc\InteractionSiteClusteringHierarchyData.cs" />
+    <Compile Include="InteractionSiteDetection\AtomSearchMethods.cs" />
+    <Compile Include="InteractionSiteDetection\FindAtomInteractingWithAnotherSiteOptions.cs" />
+    <Compile Include="InteractionSiteDetection\FullSiteId.cs" />
+    <Compile Include="InteractionSiteDetection\InteractionAtom.cs" />
+    <Compile Include="InteractionSiteDetection\InteractionBetweenSitesListContainer.cs" />
+    <Compile Include="InteractionSiteDetection\CrossSiteInteractions.cs" />
+    <Compile Include="InteractionSiteDetection\InteractionBetweenSites.cs" />
+    <Compile Include="InteractionSiteDetection\SiteInteractionType.cs" />
+    <Compile Include="InteractionSiteDetection\SiteSymmetryModeEnum.cs" />
+    <Compile Include="InteractionSiteDetection\SiteTreeOptimalStageDetection.cs" />
+    <Compile Include="InteractionVector\VectorSitePart.cs" />
+    <Compile Include="InteractionVector\VectorController.cs" />
+    <Compile Include="Measurements\DistanceMatrixCalculations.cs" />
+    <Compile Include="Measurements\MinMax.cs" />
+    <Compile Include="Measurements\PointConversions.cs" />
+    <Compile Include="Misc\ProteinAtomListContainer.cs" />
+    <Compile Include="Misc\ProteinChainListContainer.cs" />
+    <Compile Include="InteractionSiteDetection\SiteAminoAcidMetaData.cs" />
+    <Compile Include="InteractionSiteDetection\SiteAnalysisResultData.cs" />
+    <Compile Include="InteractionSiteDetection\SiteSequenceAndPositionData.cs" />
+    <Compile Include="InteractionSiteDetection\SiteSymmetryModeValues.cs" />
+    <Compile Include="Misc\SequenceSiteFilters.cs" />
+    <Compile Include="Misc\StringSymmetry.cs" />
+    <Compile Include="Misc\XlSpreadsheetDocumentContainer.cs" />
+    <Compile Include="Prosite\ScanPrositeParameters.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ANISOU_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ATOM_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\AUTHOR_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\CAVEAT_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\CISPEP_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MTRIX3_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ORIGX3_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ORIGX2_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ORIGX1_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\OBSLTE_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\NUMMDL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MTRIX2_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MTRIX1_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MODEL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MDLTYP_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MASTER_0_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\LINK_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\KEYWDS_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_REF_V_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_REF_TOBEPUBLISHED_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_REFN_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_REFN_ISSN_or_ESSN_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_PUBL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_PMID_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\JRNL_DOI_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\COMPND_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\CONECT_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\CRYST1_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\DBREF1_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\DBREF2_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\DBREF_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ENDMDL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\END_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\EXPDTA_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\FORMUL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\HEADER_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\HELIX_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\HETATM_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\HETNAM_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\HETSYN_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\HET_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\MODRES_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ProteinDataBankFileRecord.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\ProteinDataBankFileRecordField.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_AUTH_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_PUBL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_REFERENCE_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_REFN_ISSN_or_ESSN_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_REFN_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_REF_TOBEPUBLISHED_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_REF_V_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_1_TITL_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_2_RESOLUTION_ANGSTROMS_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_2_RESOLUTION_NOTAPPLICABLE_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REMARK_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\REVDAT_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SCALE1_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SCALE2_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SCALE3_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SEQADV_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SEQRES_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SHEET_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SITE_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SOURCE_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SPLIT_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SPRSDE_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\SSBOND_CYS_CYS_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\TER_Record.cs" />
+    <Compile Include="ProteinDataBankFormat\RecordTypes\TITLE_Record.cs" />
+    <Compile Include="Spreadsheets\SpreadsheetCell.cs" />
+    <Compile Include="Spreadsheets\SpreadsheetCellColourScheme.cs" />
+    <Compile Include="Spreadsheets\SpreadsheetDataTypes.cs" />
+    <Compile Include="TaskManagement\TaskMethods.cs" />
+    <Compile Include="TaskManagement\WorkDivision.cs" />
+    <Compile Include="Misc\UniProtProteinDatabaseComposition.cs" />
+    <Compile Include="Misc\Clustering.cs" />
+    <Compile Include="Misc\ExcelCreateSpreadsheet.cs" />
+    <Compile Include="Misc\ExcelSheets.cs" />
+    <Compile Include="Spreadsheets\Histogram.cs" />
+    <Compile Include="Spreadsheets\TsvToXlConversion.cs" />
+    <Compile Include="Misc\CleanProteinHandler.cs" />
+    <Compile Include="Misc\FilterProteins.cs" />
+    <Compile Include="Misc\SequenceFileHandler.cs" />
+    <Compile Include="Misc\SequenceIdSplit.cs" />
+    <Compile Include="Misc\MatlabVisualizations.cs" />
+    <Compile Include="Misc\ParameterValidation.cs" />
+    <Compile Include="Measurements\AbstractPoint.cs" />
+    <Compile Include="Measurements\Point1D.cs" />
+    <Compile Include="Measurements\Point2D.cs" />
+    <Compile Include="Measurements\Point3D.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Misc\ProteinDataBankFileOperations.cs" />
+    <Compile Include="ProteinDataBankFormat\ProteinDataBankFile.cs" />
+    <Compile Include="InteractionSiteDetection\SiteDetection.cs" />
+    <Compile Include="Misc\HomodimerStatisticsMiner.cs" />
+    <Compile Include="Spreadsheets\SpreadsheetFileHandler.cs" />
+    <Compile Include="Misc\StaticValues.cs" />
+    <Compile Include="Misc\AtomPair.cs" />
+    <Compile Include="Misc\GenerateProteinDataBankFileClass.cs" />
+    <Compile Include="Misc\InteractionMatchPercentage.cs" />
+    <Compile Include="Misc\InteractionSiteClusteringHierarchySpreadsheet.cs" />
+    <Compile Include="Misc\ProteinInteractionRecord.cs" />
+    <Compile Include="Misc\FileExistsHandler.cs" />
+    <Compile Include="TaskManagement\WorkDivisionT.cs" />
+    <Compile Include="TypeConversions\ConvertTypes.cs" />
+    <Compile Include="Upgma\GenericNode.cs" />
+    <Compile Include="Upgma\GenericNodeWithDistance.cs" />
+    <Compile Include="Upgma\MatrixPosition2D.cs" />
+    <Compile Include="Upgma\Newick.cs" />
+    <Compile Include="Upgma\UpgmaClustering.cs" />
+    <Compile Include="Upgma\UpgmaNode.cs" />
+    <Compile Include="UserInterface\ProgressActionSet.cs" />
+    <Compile Include="UserInterface\UserInterfaceOperations.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

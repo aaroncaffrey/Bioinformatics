@@ -1,0 +1,9 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ComplexInterfaceExtraction.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ComplexInterfaceExtraction.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ComplexInterfaceExtraction.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ComplexInterfaces.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ComplexInterfaces.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\bin\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\obj\Release\ComplexInterfaceExtraction.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ComplexInterfaceExtraction\obj\Release\ComplexInterfaceExtraction.pdb

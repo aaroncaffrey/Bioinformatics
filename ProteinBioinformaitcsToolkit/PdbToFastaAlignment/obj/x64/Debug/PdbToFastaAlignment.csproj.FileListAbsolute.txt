@@ -1,0 +1,14 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\PdbToFastaAlignment.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\PdbToFastaAlignment.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\PdbToFastaAlignment.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\x64\Debug\PdbToFastaAlignment.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\x64\Debug\PdbToFastaAlignment.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\PdbToFastaAlignment.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\PdbToFastaAlignment.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\PdbToFastaAlignment.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\x64\Debug\PdbToFastaAlignment.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\PdbToFastaAlignment\obj\x64\Debug\PdbToFastaAlignment.pdb

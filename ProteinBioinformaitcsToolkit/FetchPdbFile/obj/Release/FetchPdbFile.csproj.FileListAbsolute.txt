@@ -1,0 +1,6 @@
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\Release\FetchPdbFile.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\Release\FetchPdbFile.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\bin\Release\FetchPdbFile.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\Release\FetchPdbFile.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\Release\FetchPdbFile.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\FetchPdbFile\obj\Release\FetchPdbFile.csprojResolveAssemblyReference.cache

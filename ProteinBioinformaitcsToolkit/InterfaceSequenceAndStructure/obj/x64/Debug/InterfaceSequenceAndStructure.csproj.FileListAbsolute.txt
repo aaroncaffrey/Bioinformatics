@@ -1,0 +1,16 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\InterfaceSequenceAndStructure.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\InterfaceSequenceAndStructure.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\InterfaceSequenceAndStructure.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\x64\Debug\InterfaceSequenceAndStructure.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\x64\Debug\InterfaceSequenceAndStructure.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\x64\Debug\InterfaceSequenceAndStructure.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\InterfaceSequenceAndStructure.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\InterfaceSequenceAndStructure.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\InterfaceSequenceAndStructure.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\x64\Debug\InterfaceSequenceAndStructure.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\x64\Debug\InterfaceSequenceAndStructure.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\x64\Debug\InterfaceSequenceAndStructure.pdb

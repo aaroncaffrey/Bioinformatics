@@ -1,0 +1,16 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ParseEnergyScores.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ModellerEnergyScores.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ParseEnergyScores.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Debug\ModellerEnergyScores.pdb

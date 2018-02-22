@@ -1,0 +1,16 @@
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ComplexContacts.exe.config
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ComplexContacts.exe
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ComplexContacts.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Debug\ComplexContacts.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Debug\ComplexContacts.exe
+C:\Users\k1040\Downloads\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Debug\ComplexContacts.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ComplexContacts.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ComplexContacts.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ComplexContacts.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Debug\ComplexContacts.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Debug\ComplexContacts.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Debug\ComplexContacts.pdb

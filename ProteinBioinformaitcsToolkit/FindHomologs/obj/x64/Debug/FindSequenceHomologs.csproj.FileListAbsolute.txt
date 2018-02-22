@@ -1,0 +1,16 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\FindHomologs.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\FindHomologs.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\FindHomologs.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\obj\x64\Debug\FindSequenceHomologs.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\obj\x64\Debug\FindHomologs.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindHomologs\obj\x64\Debug\FindHomologs.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\FindHomologs.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\FindHomologs.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\FindHomologs.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\obj\x64\Debug\FindSequenceHomologs.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\obj\x64\Debug\FindHomologs.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindHomologs\obj\x64\Debug\FindHomologs.pdb

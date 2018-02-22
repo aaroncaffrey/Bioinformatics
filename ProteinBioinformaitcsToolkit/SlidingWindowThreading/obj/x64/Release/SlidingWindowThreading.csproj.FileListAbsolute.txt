@@ -1,0 +1,15 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\SlidingWindowThreading.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\SlidingWindowThreading.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\SlidingWindowThreading.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Release\SlidingWindowThreading.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Release\SlidingWindowThreading.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Release\SlidingWindowThreading.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\SlidingWindowThreading.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\SlidingWindowThreading.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\SlidingWindowThreading.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Release\SlidingWindowThreading.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SlidingWindowThreading\obj\x64\Release\SlidingWindowThreading.pdb

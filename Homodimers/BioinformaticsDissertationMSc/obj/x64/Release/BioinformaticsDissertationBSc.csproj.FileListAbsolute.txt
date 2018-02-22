@@ -1,0 +1,9 @@
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\bin\x64\Release\BioinformaticsDissertationBSc.exe.config
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\bin\x64\Release\BioinformaticsDissertationBSc.exe
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\bin\x64\Release\Bio.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\bin\x64\Release\BioinformaticsHelperLibrary.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\obj\x64\Release\BioinformaticsDissertationBSc.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\obj\x64\Release\BioinformaticsDissertationBSc.FormBioinformaticsDissertationBSc.resources
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\obj\x64\Release\BioinformaticsDissertationBSc.Properties.Resources.resources
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\obj\x64\Release\BioinformaticsDissertationBSc.csproj.GenerateResource.Cache
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsDissertationBSc\obj\x64\Release\BioinformaticsDissertationBSc.exe

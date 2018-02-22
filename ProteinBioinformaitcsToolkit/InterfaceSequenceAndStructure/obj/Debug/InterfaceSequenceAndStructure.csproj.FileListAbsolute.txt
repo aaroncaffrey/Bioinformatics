@@ -1,0 +1,8 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\Debug\InterfaceSequenceAndStructure.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\Debug\InterfaceSequenceAndStructure.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\Debug\InterfaceSequenceAndStructure.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\Debug\InterfaceSequenceAndStructure.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\Debug\InterfaceSequenceAndStructure.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\InterfaceSequenceAndStructure\obj\Debug\InterfaceSequenceAndStructure.pdb

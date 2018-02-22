@@ -1,0 +1,8 @@
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Release\ComplexAtoms.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Release\ComplexAtoms.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Release\ComplexAtoms.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\bin\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Release\ComplexAtoms.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Release\ComplexAtoms.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexAtoms\obj\Release\ComplexAtoms.pdb

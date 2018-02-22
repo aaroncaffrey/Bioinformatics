@@ -1,0 +1,34 @@
+reset
+
+hide all
+show cartoon
+
+util.cbc
+
+super if_template_dimer, all_template_dimer
+super all_template_monomer, all_template_dimer
+super if_template_monomer, all_template_monomer
+
+super !all_*_template, all_*_template
+super all_1_*, all_template_monomer
+super all_2_*, all_template_monomer
+super all_3_*, all_template_monomer
+super all_4_*, all_template_monomer
+super all_5_*, all_template_monomer
+
+super if_1_*, all_1_*
+super if_2_*, all_2_*
+super if_3_*, all_3_*
+super if_4_*, all_4_*
+super if_5_*, all_5_*
+
+---
+
+super all_1h1vg_template, all_1h1vg_template_dimer
+super all_1h1vg_native, all_1h1vg_template
+super all_1h1vg_1kxpd, all_1h1vg_template
+
+
+super all_1kxpd_template, all_1kxpd_template_dimer
+super all_1kxpd_native, all_1kxpd_template
+super all_1kxpd_1h1vg, all_1kxpd_template

@@ -1,0 +1,13 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ModellerEnergyScores.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ModellerEnergyScores.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Release\ModellerEnergyScores.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Release\ModellerEnergyScores.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Release\ParseEnergyScores.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ModellerEnergyScores.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ModellerEnergyScores.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ModellerEnergyScores.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\bin\x64\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Release\ModellerEnergyScores.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ModellerEnergyScores\obj\x64\Release\ModellerEnergyScores.pdb

@@ -1,0 +1,16 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\FindUniquePartners.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\FindUniquePartners.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\FindUniquePartners.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\x64\Debug\FindUniquePartners.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\x64\Debug\FindUniquePartners.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\x64\Debug\SequenceIdentityClustering.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\FindUniquePartners.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\FindUniquePartners.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\FindUniquePartners.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\bin\x64\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\x64\Debug\SequenceIdentityClustering.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\x64\Debug\FindUniquePartners.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\FindUniquePartners\obj\x64\Debug\FindUniquePartners.pdb

@@ -1,0 +1,12 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Release\ReplacePdbChain.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Release\ReplacePdbChain.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Release\ReplacePdbChain.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Release\ReplacePdbChain.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Release\ReplacePdbChain.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Release\xReplacePdbChain.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Release\ReplacePdbChain.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Release\ReplacePdbChain.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ReplacePdbChain\bin\x64\Release\ReplacePdbChain.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Release\xReplacePdbChain.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Release\ReplacePdbChain.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\ReplacePdbChain\obj\x64\Release\ReplacePdbChain.pdb

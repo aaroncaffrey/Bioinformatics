@@ -1,0 +1,8 @@
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Release\ComplexContacts.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Release\ComplexContacts.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Release\ComplexContacts.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\bin\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Release\ComplexContacts.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Release\ComplexContacts.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\ComplexContacts\obj\Release\ComplexContacts.pdb

@@ -1,0 +1,7 @@
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Release\SearchInterfaceMimicry.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Release\SearchInterfaceMimicry.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Release\SearchInterfaceMimicry.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Release\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Release\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\Release\SearchInterfaceMimicry.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\Release\SearchInterfaceMimicry.pdb

@@ -1,0 +1,5 @@
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Release\BioinformaticsHelperLibraryUnitTests.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Release\BioinformaticsHelperLibrary.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\bin\x64\Release\Bio.dll
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\obj\x64\Release\BioinformaticsHelperLibraryUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\Homodimers\BioinformaticsHelperLibraryUnitTests\obj\x64\Release\BioinformaticsHelperLibraryUnitTests.dll

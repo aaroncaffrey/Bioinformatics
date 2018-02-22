@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <StartArguments>"c:\ds96ub\ds96ub.fasta" %2a "c:\pdb\pdb_seqres.fasta" NMW N 0.3 75 c:\ds96ub\hom_out.csv</StartArguments>
+  </PropertyGroup>
+</Project>

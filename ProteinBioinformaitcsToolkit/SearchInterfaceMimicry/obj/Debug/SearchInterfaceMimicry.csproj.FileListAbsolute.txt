@@ -1,0 +1,8 @@
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Debug\SearchInterfaceMimicry.exe.config
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Debug\SearchInterfaceMimicry.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Debug\SearchInterfaceMimicry.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\Debug\SearchInterfaceMimicry.csprojResolveAssemblyReference.cache
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\Debug\SearchInterfaceMimicry.exe
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\obj\Debug\SearchInterfaceMimicry.pdb
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\k1040\Desktop\ProteinBioinformaitcsToolkit\SearchInterfaceMimicry\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb

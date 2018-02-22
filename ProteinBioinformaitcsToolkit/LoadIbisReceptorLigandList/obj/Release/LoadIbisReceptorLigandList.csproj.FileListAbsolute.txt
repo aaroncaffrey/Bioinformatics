@@ -1,0 +1,6 @@
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\LoadIbisReceptorLigandList\bin\Release\LoadIbisReceptorLigandList.exe.config
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\LoadIbisReceptorLigandList\bin\Release\LoadIbisReceptorLigandList.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\LoadIbisReceptorLigandList\bin\Release\LoadIbisReceptorLigandList.pdb
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\LoadIbisReceptorLigandList\obj\Release\LoadIbisReceptorLigandList.csprojResolveAssemblyReference.cache
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\LoadIbisReceptorLigandList\obj\Release\LoadIbisReceptorLigandList.exe
+C:\Users\aaron.PRMB2066-AA\Documents\ProteinBioinformaitcsToolkit\LoadIbisReceptorLigandList\obj\Release\LoadIbisReceptorLigandList.pdb

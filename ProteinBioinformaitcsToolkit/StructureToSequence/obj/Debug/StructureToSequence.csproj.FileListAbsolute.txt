@@ -1,0 +1,7 @@
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\Debug\StructureToSequence.exe.config
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\Debug\StructureToSequence.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\Debug\StructureToSequence.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\Debug\ProteinBioinformaticsSharedLibrary.dll
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\bin\Debug\ProteinBioinformaticsSharedLibrary.pdb
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\obj\Debug\StructureToSequence.exe
+C:\Users\aaron\Desktop\ProteinBioinformaitcsToolkit\StructureToSequence\obj\Debug\StructureToSequence.pdb
